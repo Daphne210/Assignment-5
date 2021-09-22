@@ -1,0 +1,30 @@
+/* index styles */
+.title{
+    color: #4A403A;
+}
+.page-title{
+    color: #2A0944;
+}
+.card-title{
+    color: #152D35;
+}
+.card-content{
+    color: #3B185F;
+}
+/* page content */
+body{
+    background-image:url('/Pictures/men.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+    width: 90%;
+    margin: auto;
+}
+.container{
+    width: 90%;
+}
+.banner{
+    width: 90%;
+}
+.footer{
+    color: darkblue;
+}
